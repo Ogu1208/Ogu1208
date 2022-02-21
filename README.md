@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 
-
+<a href="https://velog.io/@ogu1208"><img src="https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=Velog&logoColor=white&link=Velog"/></a>&nbsp
 
 
 
