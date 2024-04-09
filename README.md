@@ -1,4 +1,4 @@
-### Ogu1208   🎮게임광 개발자 모코코🌱
+## 안녕하세요 ! 배움과 나눔, 그리고 게임을 좋아하는 개발자 Ogu입니다!🐤 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOgu1208&count_bg=%236C6A61&title_bg=%237F9E94&icon=github.svg&icon_color=%23FFFFFF&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
