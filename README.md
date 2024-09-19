@@ -9,17 +9,73 @@
 - 배움과 나눔을 좋아하고 실천하려 노력합니다.
 
 
+
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+  
+<table>
+  <tr>
+    <td rowspan="2" align="center"><b>Language</td>
+    <td><img src="https://staging.svgrepo.com/show/184143/java.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Java</td>
+    <td rowspan="8"></td>
+    <td rowspan="2" align="center"><b>Database</b></td>
+    <td><img src="https://user-images.githubusercontent.com/112257466/209078356-d9120e3d-9498-4ee4-a38d-139a263910f4.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MySQL</td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Kotlin</td>
+  <td><img src="https://seeklogo.com/images/R/redis-logo-E403D4DD6A-seeklogo.com.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Redis</td>
+  </tr>
+  <tr>
+    <td rowspan="2" align="center"><b>Frameworks</td>
+    <td><img src="https://user-images.githubusercontent.com/112257466/209075018-0a1f7f14-a910-4d16-a4e4-51929b99e1ae.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Spring</td>
+    <td rowspan="4" align="center"><b>Infra</td>
+    <td><img src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>AWS</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/112257466/209075280-78be8487-7d6a-485c-92a8-d6677f0caab9.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Spring Boot</td>
+    <td><img src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Google Cloud</td>
+  </tr>
+  <tr>
+    <tr>
+      <td rowspan="3" align="center"><b>ORM</td>
+      <td><img src="https://user-images.githubusercontent.com/112257466/209076523-777fe02a-455f-48a0-a4b1-aeb9fff17b10.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Data JPA</td>
+      <td><img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Docker</td>
+    <tr>
+    <td><img src="https://github.com/GDSC-Team-J/ADDI-ML/assets/112257466/dff863c4-fb90-4747-a621-bdbd2c44a0be" width="16px" alt="_icon" />&nbsp;&nbsp;<b>QueryDSL</td>
+    <td rowspan="3" align="center"><b>CI/CD</td>
+    <td><img src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Github Action</td>
+    </tr>
+    <tr>
+      <td><img src="https://plugins.jetbrains.com/files/18429/586987/icon/pluginIcon.svg" width=16px alt=_icon>&nbsp;&nbsp;MyBatis</td>
+      <td><img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Docker Compose</td>
+    </tr>
+  </tr>
+</table>
+<br>
+
+
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+<div align= "center"> <a href=https://www.instagram.com/doraemin_1208/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/doraemin_1208/"> </a>
+      <a href=https://velog.io/@ogu1208/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@ogu1208/posts"> </a>
+      <a href=mailto:kmina591208@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kmina591208@gmail.com"> </a>
+      </div>  <br> 
+<div align="center"> 
+    <a href="https://hits.seeyoufarm.com"> 
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOgu1208&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visit&edge_flat=false"/>
+    </a>
+</div>
+
+<div style="text-align: left;"> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">
+</div>
+
+![Ogu1208's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ogu1208&include_all_commits=true&show_icons=true&theme=cobalt)
+
+
 ## 💻 DEV's log 💻
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/ogu1208?theme=light&posts=3)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOgu1208&count_bg=%236C6A61&title_bg=%237F9E94&icon=github.svg&icon_color=%23FFFFFF&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
-
-
-<a href="https://velog.io/@ogu1208" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-<a href="https://github.com/devxb/gitanimals">
 
 <img
   src="https://render.gitanimals.org/farms/Ogu1208"
@@ -29,4 +85,4 @@
 </a>
 
 
-![Ogu1208's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ogu1208&include_all_commits=true&show_icons=true&theme=cobalt)
+    
