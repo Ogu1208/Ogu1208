@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Ogu1208's+GitHub!🐤)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gowun+Dodum&pause=1000&color=2C7CC0&width=840&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%9C%BC%EB%A1%9C%EB%B6%80%ED%84%B0+%EA%B8%B0%ED%9A%8D+%EC%9D%98%EB%8F%84%EB%A5%BC+%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0+%EB%AC%B8%EC%A0%9C+%EC%A0%95%EC%9D%98%EB%A5%BC+%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%2C+Ogu%EC%9E%85%EB%8B%88%EB%8B%A4!%F0%9F%90%A4;%EB%8D%94+%EB%82%98%EC%9D%80+%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%99%80+%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4+%EB%A1%9C%EC%A7%81%EC%9D%84+%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0+%EC%9C%84%ED%95%B4+%EA%B8%B0%ED%9A%8D%EC%9E%90%2C+%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A0%84%EB%AC%B8%EA%B0%80%EC%99%80+%EC%86%8C%ED%86%B5%ED%95%98%EB%A0%A4+%EB%85%B8%EB%A0%A5%ED%95%A9%EB%8B%88%EB%8B%A4..)](https://git.io/typing-svg)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Gowun+Dodum&pause=1000&color=2C7CC0&width=700&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EC%A0%84%EC%B2%B4%EC%A0%81%EC%9D%B8+%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%A5%BC+%EB%B3%B4%EA%B3%A0+%EB%AC%B8%EC%A0%9C+%EC%A0%95%EC%9D%98%EB%A5%BC+%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%2C+Ogu%EC%9E%85%EB%8B%88%EB%8B%A4!%F0%9F%90%A4+)
+
 - 기업가정신을 갖추어 기획 단계에서의 기능 정의부터 고민하며 큰 틀을 보려고 노력합니다.
 - 더 좋은 아키텍처를 위해 설계를 거듭 부수고 수정해나가며 부딪혀보는 것을 좋아합니다.
 - 읽기 좋은 코드, 확장성이 좋은 코드를 위해 고민합니다.
