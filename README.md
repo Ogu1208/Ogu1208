@@ -76,14 +76,19 @@
 ![Ogu1208's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ogu1208&include_all_commits=true&show_icons=true&theme=cobalt)
 
 
-
-
-<img
-  src="https://render.gitanimals.org/farms/Ogu1208"
-  width="600"
-  height="300"
-/>
-</a>
-
-
+<div style="display: flex;">
+  <a href="https://www.gitanimals.org/">
+    <img
+      src="https://render.gitanimals.org/farms/Ogu1208"
+      width="450"
+    />
+  </a>
+  <a href="https://www.gitanimals.org/">
+    <img
+      src="https://render.gitanimals.org/guilds/703826601923992678/draw"
+      width="450"
+      alt="gitanimals"
+    />
+  </a>
+</div>
     
