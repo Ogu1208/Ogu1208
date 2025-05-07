@@ -80,13 +80,13 @@
   <a href="https://www.gitanimals.org/">
     <img
       src="https://render.gitanimals.org/farms/Ogu1208"
-      width="450"
+      width="400"
     />
   </a>
   <a href="https://www.gitanimals.org/">
     <img
       src="https://render.gitanimals.org/guilds/703826601923992678/draw"
-      width="450"
+      width="400"
       alt="gitanimals"
     />
   </a>
